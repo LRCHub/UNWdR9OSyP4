@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "愛ゆえ",
+  "base_artist": "星川サラ",
+  "createdAt": "2025-12-07T06:41:57.221522Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "愛ゆえ",
+      "artist": "星川サラ",
+      "has_synced": true,
+      "path": "select/01_愛ゆえ_星川サラ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "愛ゆえ",
+      "artist": "星川サラ",
+      "has_synced": false,
+      "path": "select/pl_01_愛ゆえ_星川サラ.txt"
+    }
+  ]
+}
